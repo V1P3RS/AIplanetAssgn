@@ -1,0 +1,46 @@
+{
+    "status": "ok",
+    "totalResults": 13,
+    "articles": [
+        {
+      "title": "InterviewMe",
+      "description": "Built with GPT-3, React, and Flask. Practice interviews with AI and ace your next interview.",
+      "urlToImage": "/InterviewMe.png",
+      "publishedAt": "uploaded 6 days ago"
+    },
+
+    {
+      "title": "Lorem Ipsum",
+      "description": "Lorem ipsum dolor sit amet consectetur. Auctor nibh eleifend tempus egestas libero tristique nec.",
+      "urlToImage": "/Lorem ipsum.png",
+      "publishedAt": "uploaded 8 days ago"
+    },
+
+    {
+        "title": "Potter Ipsum",
+        "description": "Potter ipsum wand elf parchment wingardium. Ghost glass hall tears hair must train. Snape alohamora bathrooms.",
+        "urlToImage": "/Potter ipsum.png",
+        "publishedAt": "uploaded 9 days ago"
+    },
+
+    {
+        "title": "Pizza Ipsum",
+        "description": "Pizza ipsum dolor meat lovers buffalo. Burnt melted NY.",
+        "urlToImage": "/Pizza ipsum.png",
+        "publishedAt": "uploaded 12 days ago"
+    },
+
+    {
+        "title": "Figma Ipsum",
+        "description": "Figma ipsum component variant main layer. Blur hand object thumbnail subtract flows font bold image. Font.",
+        "urlToImage": "/Figma ipsum.png",
+        "publishedAt": "uploaded 16 days ago"
+    },
+
+    {
+        "title": "Office Ipsum",
+        "description": "Office ipsum you must be muted.",
+        "urlToImage": "/Office ipsum.png",
+        "publishedAt": "uploaded 28 days ago"
+    }
+    ]}
