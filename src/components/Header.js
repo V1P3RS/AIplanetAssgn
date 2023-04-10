@@ -4,7 +4,7 @@ const Header = () => {
   return (
     <header className="border-bottom bg-light" style={{ padding: "16px 10vw" }}>
       {/* <Link to="/"> */}
-      <img alt="logo" src="/AIplanetLogo.png" />
+      <img alt="logo" src="/AIPlanetLogo.png" />
       {/* </Link> */}
     </header>
   );
